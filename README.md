@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pushparaj Shetty</h1>
 
-<img aligh="right" alt="coding img" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PushparajShetty&label=Profile%20views&color=0e75b6&style=flat" alt="PushparajShetty" /> </p>
 
